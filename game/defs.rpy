@@ -24,6 +24,7 @@ image alina happy:
 image alina happy talk:
     "images/char/alina/happy talk.png"
     zoom 1.5
+image side alina = "images/char/alina/side.png"
 
 # Определения фона
 image bg train day = "images/bg/Train_Day.png"
